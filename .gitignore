@@ -1,0 +1,6 @@
+#ignore the hidden files that start with .nextflow
+.nextflow*
+#ignore the work directory
+work
+#ignore the out_dir directory
+out_dir
